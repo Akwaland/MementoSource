@@ -3854,3 +3854,41 @@ Make sure 'BP_NPCGhost' has been compiled for  Set NPC_Ref
 [2022.05.04-13.59.08:379][449]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/UnrealInsightsSettings.ini (Access is denied.)
 [2022.05.04-13.59.08:390][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2022.05.04-13.59.08:403][449]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Autosaves/Game/Maps/Level_Auto1.umap' which belongs to world '/Game/Maps/Level'. Aborting autosave.
+[2022.05.04-14.05.18:871][980]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.04-14.05.18:878][980]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-14.05.18:878][980]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-14.05.46:136][986]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.04-14.05.46:158][986]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-14.05.46:158][986]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-14.07.11:042][  0]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e9338b09-f71d-444c-b5a0-ca51414bc14e}.
+[2022.05.04-14.07.11:064][  0]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.04-14.07.11:139][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-14.07.11:140][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-14.09.08:908][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Engine.ini (Access is denied.)
+[2022.05.04-14.09.08:909][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Game.ini (Access is denied.)
+[2022.05.04-14.09.08:909][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Input.ini (Access is denied.)
+[2022.05.04-14.09.08:910][732]LogFileManager: Error: Error writing to file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Editor.ini (Access is denied.)
+[2022.05.04-14.09.08:912][732]LogFileManager: Error: Error writing to file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/EditorPerProjectUserSettings.ini (Access is denied.)
+[2022.05.04-14.09.08:912][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Compat.ini (Access is denied.)
+[2022.05.04-14.09.08:912][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Lightmass.ini (Access is denied.)
+[2022.05.04-14.09.08:912][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Scalability.ini (Access is denied.)
+[2022.05.04-14.09.08:912][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Hardware.ini (Access is denied.)
+[2022.05.04-14.09.08:912][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/RuntimeOptions.ini (Access is denied.)
+[2022.05.04-14.09.08:913][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/DeviceProfiles.ini (Access is denied.)
+[2022.05.04-14.09.08:913][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/GameUserSettings.ini (Access is denied.)
+[2022.05.04-14.09.08:913][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Paper2D.ini (Access is denied.)
+[2022.05.04-14.09.08:913][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/LiveLink.ini (Access is denied.)
+[2022.05.04-14.09.08:913][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/VariantManagerContent.ini (Access is denied.)
+[2022.05.04-14.09.08:913][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/MagicLeap.ini (Access is denied.)
+[2022.05.04-14.09.08:913][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/MagicLeapLightEstimation.ini (Access is denied.)
+[2022.05.04-14.09.08:913][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Niagara.ini (Access is denied.)
+[2022.05.04-14.09.08:914][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/MotoSynth.ini (Access is denied.)
+[2022.05.04-14.09.08:914][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/PhysXVehicles.ini (Access is denied.)
+[2022.05.04-14.09.08:914][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/PostSplashScreen.ini (Access is denied.)
+[2022.05.04-14.09.08:914][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/Synthesis.ini (Access is denied.)
+[2022.05.04-14.09.08:914][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/OculusVR.ini (Access is denied.)
+[2022.05.04-14.09.08:914][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/SourceControlSettings.ini (Access is denied.)
+[2022.05.04-14.09.08:914][732]LogFileManager: Error: Error flushing file: C:/Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Config/Windows/UnrealInsightsSettings.ini (Access is denied.)
+[2022.05.04-14.09.08:924][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.04-14.09.08:933][732]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Saved/Autosaves/Game/Maps/Level_Auto1.umap' which belongs to world '/Game/Maps/Level'. Aborting autosave.
+[2022.05.04-14.13.41:398][ 23]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/eccec/OneDrive/Documents/Github/MementoSource/MementoSC/Intermediate/CachedAssetRegistry.bin.tmp
