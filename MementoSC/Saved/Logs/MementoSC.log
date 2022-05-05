@@ -994,3 +994,160 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.05-14.33.09:435][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2022.05.05-14.33.09:471][886]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2022.05.05-14.33.11:033][976]LogRenderer: Reallocating scene render targets to support 804x556 Format 10 NumSamples 1 (Frame:981).
+[2022.05.05-14.36.21:860][ 62]LogSlate: Took 0.000511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.05-14.36.24:094][188]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.05-14.36.24:115][188]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.05-14.36.27:380][477]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2022.05.05-14.36.27:380][477]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.05-14.36.43:458][846]LogSlate: Took 0.000477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.05-14.36.43:537][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Animations/Breathing_Idle" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/Breathing_Idle.uasset" SILENT=true
+[2022.05.05-14.36.43:546][846]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/Breathing_Idle70931D284776531D439F948517715E88.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/Breathing_Idle.uasset'
+[2022.05.05-14.36.43:554][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Animations/BS_Idle" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/BS_Idle.uasset" SILENT=true
+[2022.05.05-14.36.43:561][846]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BS_IdleD46B9B1C4DE4AA70BA31B7B8EDC6C744.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/BS_Idle.uasset'
+[2022.05.05-14.36.43:569][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Animations/Female_Ghost_Anim" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/Female_Ghost_Anim.uasset" SILENT=true
+[2022.05.05-14.36.43:577][846]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/Female_Ghost_AnimB85B002B4B0485DEF90F84BF2D630DEA.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/Female_Ghost_Anim.uasset'
+[2022.05.05-14.36.43:585][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Animations/Walking" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/Walking.uasset" SILENT=true
+[2022.05.05-14.36.43:593][846]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/Walking46180F514DF9B2C2D6707BBBC5D6DFC8.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/Walking.uasset'
+[2022.05.05-14.36.43:667][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.05.05-14.36.43:674][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.05-14.36.43:680][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.05-14.36.43:685][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.05.05-14.36.43:701][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.05.05-14.36.43:706][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.05.05-14.36.43:738][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/BP_FemaleGhostAnim" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/BP_FemaleGhostAnim.uasset" SILENT=true
+[2022.05.05-14.36.43:749][846]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_FemaleGhostAnim5B4312904C37F02875FDB0991C161ABE.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/BP_FemaleGhostAnim.uasset'
+[2022.05.05-14.36.43:891][846]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-14.36.43:891][846]LogContentValidation: Display: Validating AnimBlueprint /Game/Ghost/BP_FemaleGhostAnim.BP_FemaleGhostAnim
+[2022.05.05-14.36.43:891][846]LogContentValidation: Display: Validating BlendSpace1D /Game/Ghost/Animations/BS_Idle.BS_Idle
+[2022.05.05-14.36.43:891][846]LogContentValidation: Display: Validating AnimSequence /Game/Ghost/Animations/Walking.Walking
+[2022.05.05-14.36.43:891][846]LogContentValidation: Display: Validating AnimSequence /Game/Ghost/Animations/Breathing_Idle.Breathing_Idle
+[2022.05.05-14.36.43:891][846]LogContentValidation: Display: Validating AnimSequence /Game/Ghost/Animations/Female_Ghost_Anim.Female_Ghost_Anim
+[2022.05.05-14.36.46:203][ 78]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.05-14.36.46:225][ 78]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.05-14.36.53:169][910]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprint
+[2022.05.05-14.36.53:169][910]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.05-14.37.04:195][951]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_Ghost.BP_Ghost_C' ref from Metadata '/Game/Ghost/BP_Ghost.PackageMetaData'
+[2022.05.05-14.37.04:195][951]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_Ghost.SKEL_BP_Ghost_C:BndEvt__BP_Ghost_AudioSphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Ghost/BP_Ghost.PackageMetaData'
+[2022.05.05-14.37.04:195][951]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_Ghost.SKEL_BP_Ghost_C:BndEvt__BP_Ghost_AudioSphere_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Ghost/BP_Ghost.PackageMetaData'
+[2022.05.05-14.37.04:195][951]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_Ghost.SKEL_BP_Ghost_C:UserConstructionScript' ref from Metadata '/Game/Ghost/BP_Ghost.PackageMetaData'
+[2022.05.05-14.37.04:195][951]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_Ghost.SKEL_BP_Ghost_C' ref from Metadata '/Game/Ghost/BP_Ghost.PackageMetaData'
+[2022.05.05-14.37.04:270][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Blueprint/BP_Ghost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset" SILENT=true
+[2022.05.05-14.37.04:288][951]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_Ghost287DF5F64A4CD6185F3BAA8908A02EC5.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset'
+[2022.05.05-14.37.04:289][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/BP_Ghost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/BP_Ghost.uasset" SILENT=true
+[2022.05.05-14.37.04:291][951]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_Ghost04479F624B6FD868C5FD6BA219AAD779.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/BP_Ghost.uasset'
+[2022.05.05-14.37.04:424][951]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-14.37.04:424][951]LogContentValidation: Display: Validating Blueprint /Game/Ghost/Blueprint/BP_Ghost.BP_Ghost
+[2022.05.05-14.37.04:424][951]LogContentValidation: Display: Validating ObjectRedirector /Game/Ghost/BP_Ghost.BP_Ghost
+[2022.05.05-14.37.04:424][951]LogContentValidation: Display: Validating ObjectRedirector /Game/Ghost/BP_Ghost.Default__BP_Ghost_C
+[2022.05.05-14.37.04:424][951]LogContentValidation: Display: Validating ObjectRedirector /Game/Ghost/BP_Ghost.BP_Ghost_C
+[2022.05.05-14.37.06:803][145]LogBlueprint: Error: [AssetLog] E:\Memento SourceCode\MementoSource\MementoSC\Content\NPC\BP_NPCGhost.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.05.05-14.37.06:804][145]LogBlueprint: Error: [AssetLog] E:\Memento SourceCode\MementoSource\MementoSC\Content\NPC\BP_NPCGhost.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.05.05-14.37.06:805][145]LogBlueprint: Error: [AssetLog] E:\Memento SourceCode\MementoSource\MementoSC\Content\NPC\BP_NPCGhost.uasset: [Compiler] In use pin  NPCChat  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.05.05-14.37.06:806][145]LogBlueprint: Error: [AssetLog] E:\Memento SourceCode\MementoSource\MementoSC\Content\NPC\BP_NPCGhost.uasset: [Compiler] Can't connect pins  Self  and  NPC Ref : Self Object Reference is not compatible with Object Reference.
+[2022.05.05-14.37.06:806][145]LogBlueprint: Error: [AssetLog] E:\Memento SourceCode\MementoSource\MementoSC\Content\NPC\BP_NPCGhost.uasset: [Compiler] Can't connect pins  NPC Ref  and  Self : Object Reference is not compatible with Self Object Reference.
+[2022.05.05-14.37.06:807][145]LogBlueprint: Warning: [AssetLog] E:\Memento SourceCode\MementoSource\MementoSC\Content\NPC\BP_NPCGhost.uasset: [Compiler] Could not find a variable named "NPC_Ref" in 'BP_NPCGhost'.
+Make sure 'BP_NPCGhost' has been compiled for  Set NPC_Ref
+[2022.05.05-14.37.06:843][145]LogMetaData: Removing '/Game/Ghost/Animations/BP_FemaleGhostAnim.BP_FemaleGhostAnim:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Ghost/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.06:843][145]LogMetaData: Removing '/Game/Ghost/Animations/BP_FemaleGhostAnim.BP_FemaleGhostAnim_C' ref from Metadata '/Game/Ghost/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.06:843][145]LogMetaData: Removing '/Game/Ghost/Animations/BP_FemaleGhostAnim.BP_FemaleGhostAnim:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Ghost/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.06:843][145]LogMetaData: Removing '/Game/Ghost/Animations/BP_FemaleGhostAnim.BP_FemaleGhostAnim:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Ghost/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.06:843][145]LogMetaData: Removing '/Game/Ghost/Animations/BP_FemaleGhostAnim.SKEL_BP_FemaleGhostAnim_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Ghost/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.06:843][145]LogMetaData: Removing '/Game/Ghost/Animations/BP_FemaleGhostAnim.SKEL_BP_FemaleGhostAnim_C:AnimGraph' ref from Metadata '/Game/Ghost/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.06:843][145]LogMetaData: Removing '/Game/Ghost/Animations/BP_FemaleGhostAnim.SKEL_BP_FemaleGhostAnim_C' ref from Metadata '/Game/Ghost/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.06:843][145]LogMetaData: Removing '/Game/Ghost/Animations/BP_FemaleGhostAnim.BP_FemaleGhostAnim_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Ghost/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.06:843][145]LogMetaData: Removing '/Game/Ghost/Animations/BP_FemaleGhostAnim.BP_FemaleGhostAnim_C:AnimGraph' ref from Metadata '/Game/Ghost/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.06:916][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Animations/BP_FemaleGhostAnim" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/BP_FemaleGhostAnim.uasset" SILENT=true
+[2022.05.05-14.37.06:927][145]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_FemaleGhostAnim0FA21D74458667C01D81E4BDE36101E1.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Animations/BP_FemaleGhostAnim.uasset'
+[2022.05.05-14.37.06:989][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.05.05-14.37.07:018][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.05.05-14.37.07:022][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.05.05-14.37.07:053][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Blueprint/BP_Ghost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset" SILENT=true
+[2022.05.05-14.37.07:069][145]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_Ghost4F8A251C45597760690585BC7801EDA7.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset'
+[2022.05.05-14.37.07:093][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/BP_NPCGhost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/NPC/BP_NPCGhost.uasset" SILENT=true
+[2022.05.05-14.37.07:142][145]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_NPCGhostD2735BA44E59950146DFD5A37D442021.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/NPC/BP_NPCGhost.uasset'
+[2022.05.05-14.37.07:268][145]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-14.37.07:268][145]LogContentValidation: Display: Validating AnimBlueprint /Game/Ghost/Animations/BP_FemaleGhostAnim.BP_FemaleGhostAnim
+[2022.05.05-14.37.07:268][145]LogContentValidation: Display: Validating Blueprint /Game/Ghost/Blueprint/BP_Ghost.BP_Ghost
+[2022.05.05-14.37.07:268][145]LogContentValidation: Display: Validating Blueprint /Game/NPC/BP_NPCGhost.BP_NPCGhost
+[2022.05.05-14.37.18:709][253]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_FemaleGhostAnim.BP_FemaleGhostAnim_C' ref from Metadata '/Game/Ghost/Animations/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.18:709][253]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_FemaleGhostAnim.BP_FemaleGhostAnim_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Ghost/Animations/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.18:709][253]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_FemaleGhostAnim.BP_FemaleGhostAnim_C:AnimGraph' ref from Metadata '/Game/Ghost/Animations/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.18:709][253]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_FemaleGhostAnim.SKEL_BP_FemaleGhostAnim_C' ref from Metadata '/Game/Ghost/Animations/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.18:709][253]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_FemaleGhostAnim.SKEL_BP_FemaleGhostAnim_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Ghost/Animations/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.18:709][253]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_FemaleGhostAnim.SKEL_BP_FemaleGhostAnim_C:AnimGraph' ref from Metadata '/Game/Ghost/Animations/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.18:709][253]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_FemaleGhostAnim.BP_FemaleGhostAnim:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Ghost/Animations/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.18:709][253]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_FemaleGhostAnim.BP_FemaleGhostAnim:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Ghost/Animations/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.18:709][253]LogMetaData: Removing '/Game/Ghost/Blueprint/BP_FemaleGhostAnim.BP_FemaleGhostAnim:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Ghost/Animations/BP_FemaleGhostAnim.PackageMetaData'
+[2022.05.05-14.37.18:763][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Blueprint/BP_FemaleGhostAnim" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_FemaleGhostAnim.uasset" SILENT=true
+[2022.05.05-14.37.18:773][253]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_FemaleGhostAnim8D9EDC5B4024D15F26FDFEB585260322.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_FemaleGhostAnim.uasset'
+[2022.05.05-14.37.18:823][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.05.05-14.37.18:835][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.05.05-14.37.18:840][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.05-14.37.18:863][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Blueprint/BP_Ghost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset" SILENT=true
+[2022.05.05-14.37.18:879][253]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_GhostFBAC72DE48819CD62451B985C3435A29.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset'
+[2022.05.05-14.37.18:886][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/BP_NPCGhost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/NPC/BP_NPCGhost.uasset" SILENT=true
+[2022.05.05-14.37.18:932][253]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_NPCGhost5A606824414366602965848E3A224463.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/NPC/BP_NPCGhost.uasset'
+[2022.05.05-14.37.19:067][253]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.05-14.37.19:067][253]LogContentValidation: Display: Validating AnimBlueprint /Game/Ghost/Blueprint/BP_FemaleGhostAnim.BP_FemaleGhostAnim
+[2022.05.05-14.37.19:067][253]LogContentValidation: Display: Validating Blueprint /Game/Ghost/Blueprint/BP_Ghost.BP_Ghost
+[2022.05.05-14.37.19:067][253]LogContentValidation: Display: Validating Blueprint /Game/NPC/BP_NPCGhost.BP_NPCGhost
+[2022.05.05-14.37.33:576][732]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.05.05-14.37.33:587][732]LogContentBrowser: Creating deferred item: NewInterface
+[2022.05.05-14.37.38:000][ 16]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2022.05.05-14.37.38:002][ 16]LogContentBrowser: End creating deferred item NewInterface
+[2022.05.05-14.38.01:672][295]LogContentBrowser: Attempting asset rename: NewInterface -> BI_DialogueInterface
+[2022.05.05-14.38.01:696][295]LogMetaData: Removing '/Game/Ghost/BI_DialogueInterface.SKEL_BI_DialogueInterface_C' ref from Metadata '/Game/Ghost/NewInterface.PackageMetaData'
+[2022.05.05-14.38.01:696][295]LogMetaData: Removing '/Game/Ghost/BI_DialogueInterface.BI_DialogueInterface_C' ref from Metadata '/Game/Ghost/NewInterface.PackageMetaData'
+[2022.05.05-14.38.01:737][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/BI_DialogueInterface" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/BI_DialogueInterface.uasset" SILENT=true
+[2022.05.05-14.38.01:739][295]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BI_DialogueInterfaceC242E2E84F76F3F677CC29A24B0AB95D.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/BI_DialogueInterface.uasset'
+[2022.05.05-14.38.01:783][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.05.05-14.38.01:809][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.05.05-14.38.01:814][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.05-14.38.01:926][295]AssetCheck: New page: Asset Save: BI_DialogueInterface
+[2022.05.05-14.38.01:926][295]LogContentValidation: Display: Validating Blueprint /Game/Ghost/BI_DialogueInterface.BI_DialogueInterface
+[2022.05.05-14.38.04:253][399]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ghost/BI_DialogueInterface.BI_DialogueInterface
+[2022.05.05-14.38.04:395][399]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.05.05-14.38.04:771][399]LogSlate: Took 0.000964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.05-14.38.33:723][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/BI_DialogueInterface" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/BI_DialogueInterface.uasset" SILENT=true
+[2022.05.05-14.38.33:726][931]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BI_DialogueInterfaceBA78FD0B4F5A052709CC4F8DBCE7AEAE.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/BI_DialogueInterface.uasset'
+[2022.05.05-14.38.33:737][931]AssetCheck: New page: Asset Save: BI_DialogueInterface
+[2022.05.05-14.38.33:738][931]LogContentValidation: Display: Validating Blueprint /Game/Ghost/BI_DialogueInterface.BI_DialogueInterface
+[2022.05.05-14.38.34:297][983]BlueprintLog: New page: Compile BI_DialogueInterface
+[2022.05.05-14.38.34:310][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.05.05-14.38.34:327][983]LogSlate: Took 0.001410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.05-14.38.39:188][442]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ghost/Blueprint/BP_Ghost.BP_Ghost
+[2022.05.05-14.38.43:804][799]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.05-14.38.49:969][328]BlueprintLog: New page: Compile BP_Ghost
+[2022.05.05-14.38.50:005][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.05.05-14.38.50:470][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Blueprint/BP_Ghost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset" SILENT=true
+[2022.05.05-14.38.50:487][359]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_Ghost8BC5C5934744D2821EE6EFA5C08175FB.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset'
+[2022.05.05-14.38.50:511][359]AssetCheck: New page: Asset Save: BP_Ghost
+[2022.05.05-14.38.50:511][359]LogContentValidation: Display: Validating Blueprint /Game/Ghost/Blueprint/BP_Ghost.BP_Ghost
+[2022.05.05-14.38.59:096][509]LogRenderer: Reallocating scene render targets to support 804x688 Format 10 NumSamples 1 (Frame:1).
+[2022.05.05-14.43.56:163][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Blueprint/BP_Ghost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset" SILENT=true
+[2022.05.05-14.43.56:186][788]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_Ghost602D12CC402848BE72FD159F1F69647A.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset'
+[2022.05.05-14.43.56:203][788]AssetCheck: New page: Asset Save: BP_Ghost
+[2022.05.05-14.43.56:203][788]LogContentValidation: Display: Validating Blueprint /Game/Ghost/Blueprint/BP_Ghost.BP_Ghost
+[2022.05.05-14.43.56:652][831]BlueprintLog: New page: Compile BP_Ghost
+[2022.05.05-14.43.56:656][831]LogBlueprint: Error: [AssetLog] E:\Memento SourceCode\MementoSource\MementoSC\Content\Ghost\Blueprint\BP_Ghost.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_VictorianCharacter  to imply a specific type.
+[2022.05.05-14.43.56:656][831]LogBlueprint: Error: [AssetLog] E:\Memento SourceCode\MementoSource\MementoSC\Content\Ghost\Blueprint\BP_Ghost.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2022.05.05-14.43.56:698][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.05.05-14.44.03:894][543]BlueprintLog: New page: Compile BP_Ghost
+[2022.05.05-14.44.03:931][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.05.05-14.44.38:770][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.05.05-14.44.38:773][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Saved/Autosaves/Game/Maps/Level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.05-14.44.39:515][757]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/Level_Auto10FE3DD7D46EE6FCA882960A08F4ADC47.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/Autosaves/Game/Maps/Level_Auto1.umap'
+[2022.05.05-14.44.39:518][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level' took 0.763
+[2022.05.05-14.44.39:518][757]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.763
+[2022.05.05-14.44.39:518][757]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ghost/Blueprint/BP_Ghost] ([2] browsable assets)...
+[2022.05.05-14.44.39:591][757]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Ghost/Blueprint/BP_Ghost.BP_Ghost]
+[2022.05.05-14.44.39:591][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ghost/Blueprint/BP_Ghost]
+[2022.05.05-14.44.39:591][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Blueprint/BP_Ghost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Saved/Autosaves/Game/Ghost/Blueprint/BP_Ghost_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.05-14.44.39:617][757]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_Ghost_Auto13F3C44D848B65A54B478D095B72CF2E9.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/Autosaves/Game/Ghost/Blueprint/BP_Ghost_Auto1.uasset'
+[2022.05.05-14.44.39:617][757]LogFileHelpers: Auto-saving content packages took 0.100
+[2022.05.05-14.45.50:409][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ghost/Blueprint/BP_Ghost" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset" SILENT=true
+[2022.05.05-14.45.50:429][557]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/BP_Ghost5D0A52404DDFACF313B7F5B1702C94EB.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Content/Ghost/Blueprint/BP_Ghost.uasset'
+[2022.05.05-14.45.50:449][557]AssetCheck: New page: Asset Save: BP_Ghost
+[2022.05.05-14.45.50:449][557]LogContentValidation: Display: Validating Blueprint /Game/Ghost/Blueprint/BP_Ghost.BP_Ghost
+[2022.05.05-14.45.51:234][634]BlueprintLog: New page: Compile BP_Ghost
+[2022.05.05-14.45.51:270][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
