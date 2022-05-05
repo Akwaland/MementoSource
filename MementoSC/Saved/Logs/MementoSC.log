@@ -993,3 +993,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.05-16.05.21:672][244]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2022.05.05-16.05.30:521][241]LogRenderer: Reallocating scene render targets to support 804x556 Format 10 NumSamples 1 (Frame:3671).
 [2022.05.05-16.05.34:589][327]LogSlate: Took 0.000899 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.05-16.14.55:787][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.05.05-16.14.55:790][342]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level' took 0.009
+[2022.05.05-16.14.55:792][342]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Ghost_introduction] ([1] browsable assets)...
+[2022.05.05-16.14.55:798][342]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Ghost_introduction.Ghost_introduction]
+[2022.05.05-16.14.55:798][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Ghost_introduction]
+[2022.05.05-16.14.55:798][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Ghost_introduction" FILE="E:/Memento SourceCode/MementoSource/MementoSC/Saved/Autosaves/Game/Audio/Ghost_introduction_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.05-16.14.55:806][342]LogSavePackage: Moving 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/Ghost_introduction_Auto10B00777D4253BF590E4E1B96DCDDF7D9.tmp' to 'E:/Memento SourceCode/MementoSource/MementoSC/Saved/Autosaves/Game/Audio/Ghost_introduction_Auto1.uasset'
+[2022.05.05-16.14.55:806][342]LogFileHelpers: Auto-saving content packages took 0.016
